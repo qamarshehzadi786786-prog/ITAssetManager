@@ -302,11 +302,13 @@ CREATE TABLE Assignments (
 
 |---|---|---|
 
+| Zohaib Hassan | F23BDOCS1M01156 | Group Leader |
+
 | Qamar Shehzadi | F23BDOCS1M01193 | Group Member |
 
-| Nosheen Bibi  | F23BDOCS1M01200 | Group Leader |
+| Nosheen Bibi  | F23BDOCS1M01200 | Group Member |
 
-| Zohaib Hassan | F23BDOCS1M01156 | Group Member |
+
 
 
 
